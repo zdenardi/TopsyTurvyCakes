@@ -1,0 +1,11 @@
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.deps.json
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.runtimeconfig.json
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.runtimeconfig.dev.json
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.dll
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\bin\Debug\netcoreapp2.0\TopsyTurvyCakes.pdb
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.csprojAssemblyReference.cache
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.csproj.CoreCompileInputs.cache
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.AssemblyInfoInputs.cache
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.AssemblyInfo.cs
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.dll
+N:\Lynda\RazorPages\TopsyTurvyCakes\TopsyTurvyCakes\obj\Debug\netcoreapp2.0\TopsyTurvyCakes.pdb
